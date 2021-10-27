@@ -1,0 +1,6 @@
+{
+  "test@test.com": {
+                      "@class": "org.apereo.cas.mgmt.authz.json.UserAuthorizationDefinition",
+                      "roles": ["ROLE_ADMIN"]
+                    }
+}
